@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Windle Reader</string>
+    <string name="pdf_name">Pdf name</string>
+    <string name="todo">TODO</string>
+</resources>
